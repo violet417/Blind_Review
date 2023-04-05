@@ -15,3 +15,5 @@
 <img src="C:\Users\bigdata\Desktop\알파코\github\2023-03-21 10 06 01.png" width="600"> <br>
 <img src="C:\Users\bigdata\Desktop\알파코\notion\네카라쿠배\2023-02-22_10_29_43.jpg">
 ![notion img](C:\Users\bigdata\Desktop\알파코\notion\네카라쿠배\2023-02-22_10_29_43.jpg)
+
+![notion img](https://github.com/violet417/Blind_Review_Sentiment_Analysis/issues/1#issue-1655021217)
