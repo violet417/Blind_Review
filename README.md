@@ -17,3 +17,5 @@
 ![notion img](C:\Users\bigdata\Desktop\알파코\notion\네카라쿠배\2023-02-22_10_29_43.jpg)
 
 ![notion img](https://github.com/violet417/Blind_Review_Sentiment_Analysis/issues/1#issue-1655021217)
+
+![2023-03-21 10 06 01](https://user-images.githubusercontent.com/115054804/230000110-bb7223f9-cfa2-48e6-9c61-ef788b5d0127.png)
