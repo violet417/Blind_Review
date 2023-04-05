@@ -10,4 +10,5 @@
 - [👫 수행과정](#-수행과정)
 - [🏆 프로젝트평가](#-프로젝트평가)
 
-<img src="C:\Users\bigdata\Desktop\알파코\github\2023-03-21 10 06 01.png">
+
+![notion img](C:\Users\bigdata\Desktop\알파코\github\2023-03-21 10 06 01.png)
