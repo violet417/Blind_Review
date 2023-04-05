@@ -1,6 +1,5 @@
 <h1 align="center"> 
-블라인드 기업리뷰 분석을 통한 <br/>
-'네카라쿠배' 기업문화 파헤치기<br/>
+블라인드 기업리뷰 분석을 통한 '네카라쿠배' 기업문화 파헤치기<br/>
 Blind_Review_Sentiment_Analysis
 </h1>
 
